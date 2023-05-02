@@ -10,6 +10,7 @@ React
 First, run the development server:
 
 npm install
+and 
 npm run dev
 
 
